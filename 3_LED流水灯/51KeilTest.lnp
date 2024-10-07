@@ -1,0 +1,4 @@
+"51KeilTest.obj",
+"Test2.obj" 
+TO "51KeilTest" 
+RAMSIZE(256) 
